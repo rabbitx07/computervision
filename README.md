@@ -100,13 +100,7 @@ python predict.py
 * Deep learning based classification
 * Web application interface
 
-## Screenshots
 
-(Add screenshots here)
-
-## Demo
-
-(Add demo GIF or video here)
 
 ## Author
 
