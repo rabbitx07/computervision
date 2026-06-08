@@ -1,4 +1,6 @@
- opencv-python,
-  cvzone,
-   pandas, scikit-learn,
-    joblib
+opencv-python
+mediapipe
+numpy
+scikit-learn
+joblib
+pyttsx3
