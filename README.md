@@ -62,7 +62,8 @@ Speech Output
 * C
 * D
 * E
-
+## Note: 
+The dataset and trained model are generated locally using collect_data.py and train_model.py.
 ## Installation
 
 ```bash
