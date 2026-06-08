@@ -1,4 +1,4 @@
-# Sign Language Recognition System
+# Sign Language Recognition Model
 
 A real-time sign language recognition system built using OpenCV, MediaPipe, and Machine Learning.
 
